@@ -1,0 +1,6 @@
+{
+  "name": "The Algorithm Abyss",
+  "description": "An interactive simulation where players act as a social media algorithm trainer, balancing engagement and truth to see how algorithms amplify misinformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
